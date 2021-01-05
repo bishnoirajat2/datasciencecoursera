@@ -1,15 +1,31 @@
 # datasciencecoursera
-"Getting and Cleaning Data" Course Project
-Initial data for research
-The project for this course is to collect, work with, and clean a data set. The goal is to prepare ordered data that can be used for further analysis.
+Getting and Cleaning Data Project
+Author: Michael Galarnyk
+Blog Post: Getting and Cleaning Data Review
+Data Zip File Location: UC Irvine Repo
 
-The data of this project can be downloaded through the following link: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+Goal of the Project
+A tidy data set
+A link to a Github repository with your script for performing the analysis
+A code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md. You should also include a README.md in the repo with your scripts. This repo explains how all of the scripts work and how they are connected.
+Analysis R Script
+Review Criteria
+Goal	Item	Link to Item
+Analysis R Script	run_analysis.R	R Script Link
+Tidy Data Set	Clean Data Set	Data Set Link
+Github Repo	Repo	Repo Link
+Cookbook	CodeBook.md	Repo Link
+README	ReadingItNow	Repo Link
+Contributors
+FirstName	LastName	Email
+Michael	Galarnyk	mgalarny@gmail.com
+Submit	Pull Request	youremailhere@gmail.com
+License
+Anyone may contribute after this assignment is turned in and graded.
 
-The full description of the data can be found here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+Blog Posts on the Specialization | John Hopkins Coursera
+Getting and Cleaning Data (JHU Coursera)
 
-Files
-CodeBook.md describes the variables, the data, and any work that is done to clean up the data.
+R Programming (JHU Coursera)
 
-run_analysis.R contains all the coding to perform the course project, which includes downloading and decompressing the data set used for this project.
-
-tidydataset.txt is a text file written from run_analysis.R, which are the average characteristics of each topic and each activity. See CodeBook.md for more explicit information.
+The Data Scientist’s Toolbox (JHU Coursera)
